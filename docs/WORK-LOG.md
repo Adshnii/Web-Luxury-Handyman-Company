@@ -17,3 +17,11 @@ Applied a graphite/dark-gray and white palette throughout the site. Replaced the
 Owner requested these edits first and further iterative design feedback before continuing. Local preview remains temporary. Source files, artwork and website documentation are to be preserved in the dedicated GitHub repository.
 
 Verification: JavaScript syntax checked during initial implementation. The graphite version was visually inspected in the in-app browser on desktop and at 390 px width. No horizontal overflow at 390 px; header logo loaded; header/top-bar phone count is zero. Mobile menu opened with exactly Services, About us, Let’s talk; About us navigated to the intended section and closed the menu. Local preview server was restarted after its earlier session ended. This is a design-review version; GitHub Pages and custom-domain publication remain pending.
+
+## 2026-10-23 — Reference layout and continuous graphite background
+
+Reworked the first screen around the owner's Pinterest layout reference (https://pin.it/7geJwhg2o): framed interior photograph, overlaid logo and navigation, bold two-line headline, outline contact button and compact service strip. Kept the approved company logo and existing illustrative interior image; no reference artwork was copied. Navigation remains Services → About us → Let’s talk, with no phone number in the hero.
+
+Following the owner's background feedback, replaced the experimental stone texture with a single graphite canvas (#27272a). Services, About us, service areas, FAQ and contact now share this background. Removed separate About us/contact panel fills and softened the hero border, shadow and service strip. The contact form has a subtle contrasting surface for readability.
+
+Validation: desktop visual review at 1440 px and mobile at 390 px; all images loaded, no horizontal overflow at those widths, consistent transparent section backgrounds over the graphite body. Mobile menu opens with the three requested links, About us navigates correctly and closes it. No phone link in the first screen. Screenshots are in docs/previews/unified-graphite-*.png. GitHub Pages/custom-domain publication remains pending while design review continues.

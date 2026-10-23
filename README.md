@@ -20,6 +20,10 @@ The form opens the visitor’s email application with a prepared request. It **d
 
 The existing business domain is `luxuryhandymansolvix.com`. It is not connected to this repository yet. See [domain setup](docs/DOMAIN-SETUP.md). Do not add a CNAME file before arranging and checking domain DNS. Existing mail DNS records must be preserved. The older `WEB` repository and its `solvixcompany.com` domain are separate.
 
+## Design
+
+The owner’s [Pinterest reference](https://pin.it/7geJwhg2o) informs the framed photo hero and overlaid navigation. A continuous graphite background (#27272a), white typography and subtle dividers unite the supporting sections. The approved company logo remains unchanged. Desktop and mobile design previews are saved in `docs/previews/`.
+
 ## Assets
 
 `assets/logo-black.png` is the owner’s approved crossed-impact-driver artwork, copied from the company’s existing asset repository. `assets/interior.jpg` is illustrative interior imagery from Unsplash, not a photograph of a completed company project. Source: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0 . The visible caption says “Interior inspiration.”
