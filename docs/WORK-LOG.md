@@ -41,3 +41,7 @@ Replaced the introduction beneath the hero with ‘The little things in your hom
 ## 2026-10-23 — Restore two-column introduction
 
 Restored ‘Good homes deserve attention to the details.’ on the left. Placed the new care message beside it as a single line on desktop, with a stacked wrapping layout on mobile.
+
+## 2026-10-23 — Owner-provided service descriptions
+
+Updated the English service descriptions from the owner's supplied wording: a wide range of minor home repairs; pictures, shelves and TV mounting; everyday maintenance including bulb replacement, small plumbing fixtures, shelf/door adjustment and furniture assembly. Moved the existing ‘Help with the repairs…’ paragraph from the section heading to the row beneath the three cards, replacing the previous note. Aligned card links for the longer descriptions.
