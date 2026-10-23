@@ -53,3 +53,7 @@ Updated the note below the service cards with the owner's invitation to discuss 
 ## 2026-10-23 — Remove service-note link
 
 Removed ‘Ask about your project’ from the row beneath the service cards at the owner's request.
+
+## 2026-10-23 — Remove service-area text column
+
+Removed the left ‘Serving our corner of Southwest Florida’ column, including its eyebrow and description. Preserved the city list at full section width and its existing navigation anchor.
