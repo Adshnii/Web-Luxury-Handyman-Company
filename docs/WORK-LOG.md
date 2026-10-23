@@ -69,3 +69,7 @@ Added a thin horizontal divider between About us and A few useful details, match
 ## 2026-10-23 — Display phone country code
 
 Added +1 to the visible phone number in the contact section. The existing international tel link remains unchanged.
+
+## 2026-10-23 — Synchronize hours with Facebook
+
+Read the company Facebook Hours dialog directly: Monday–Friday 08:00–18:00, Saturday closed, Sunday 08:00–16:00. Updated the website contact hours, FAQ answer, structured opening-hours data and source record to match.
