@@ -29,3 +29,7 @@ Validation: desktop visual review at 1440 px and mobile at 390 px; all images lo
 ## 2026-10-23 — Headline wording
 
 At the owner's request, changed the hero headline from ‘Your home. Our craft.’ to ‘Your home. Our care.’, the English wording for ‘Ваш дім — наша турбота’.
+
+## 2026-10-23 — Remove hero services button
+
+Removed the ‘Our services’ button from the first screen at the owner's request. The four remaining hero tiles fill the desktop strip evenly and form a two-by-two grid on mobile.
