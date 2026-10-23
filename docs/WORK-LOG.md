@@ -37,3 +37,7 @@ Removed the ‘Our services’ button from the first screen at the owner's reque
 ## 2026-10-23 — Simplify introduction
 
 Replaced the introduction beneath the hero with ‘The little things in your home that need attention. We’ll take care of them.’ Removed the shelf paragraph and the introductory ‘Message on WhatsApp’ link. Centered the remaining message.
+
+## 2026-10-23 — Restore two-column introduction
+
+Restored ‘Good homes deserve attention to the details.’ on the left. Placed the new care message beside it as a single line on desktop, with a stacked wrapping layout on mobile.
