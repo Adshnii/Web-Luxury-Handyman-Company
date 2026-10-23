@@ -81,3 +81,7 @@ Added the owner's experience of more than five years, including work in several 
 ## 2026-10-23 — Plan your visit
 
 Added a fourth About us item inviting visitors to schedule a visit, discuss next steps or ask questions via linked Facebook, WhatsApp or phone contacts.
+
+## 2026-10-23 — Simplify request FAQ
+
+Removed ‘Photos and measurements help us understand the project.’ at the owner's request.
