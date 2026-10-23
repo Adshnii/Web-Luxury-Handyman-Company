@@ -25,3 +25,7 @@ Reworked the first screen around the owner's Pinterest layout reference (https:/
 Following the owner's background feedback, replaced the experimental stone texture with a single graphite canvas (#27272a). Services, About us, service areas, FAQ and contact now share this background. Removed separate About us/contact panel fills and softened the hero border, shadow and service strip. The contact form has a subtle contrasting surface for readability.
 
 Validation: desktop visual review at 1440 px and mobile at 390 px; all images loaded, no horizontal overflow at those widths, consistent transparent section backgrounds over the graphite body. Mobile menu opens with the three requested links, About us navigates correctly and closes it. No phone link in the first screen. Screenshots are in docs/previews/unified-graphite-*.png. GitHub Pages/custom-domain publication remains pending while design review continues.
+
+## 2026-10-23 — Headline wording
+
+At the owner's request, changed the hero headline from ‘Your home. Our craft.’ to ‘Your home. Our care.’, the English wording for ‘Ваш дім — наша турбота’.
