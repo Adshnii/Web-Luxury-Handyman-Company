@@ -57,3 +57,7 @@ Removed ‘Ask about your project’ from the row beneath the service cards at t
 ## 2026-10-23 — Remove service-area text column
 
 Removed the left ‘Serving our corner of Southwest Florida’ column, including its eyebrow and description. Preserved the city list at full section width and its existing navigation anchor.
+
+## 2026-10-23 — Remove duplicated service-area blocks
+
+Removed the separate city-list section and the Southwest Florida hero tile, retaining the existing footer information. Rebalanced the hero strip to three services and adjusted the contact section number.
