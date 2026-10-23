@@ -65,3 +65,7 @@ Removed the separate city-list section and the Southwest Florida hero tile, reta
 ## 2026-10-23 — About/FAQ divider
 
 Added a thin horizontal divider between About us and A few useful details, matching the existing section borders.
+
+## 2026-10-23 — Display phone country code
+
+Added +1 to the visible phone number in the contact section. The existing international tel link remains unchanged.
