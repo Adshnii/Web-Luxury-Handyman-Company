@@ -77,3 +77,7 @@ Read the company Facebook Hours dialog directly: Monday–Friday 08:00–18:00, 
 ## 2026-10-23 — About us experience and client care
 
 Added the owner's experience of more than five years, including work in several EU countries. Replaced the three process rows with the requested commitments: work as for one's own home with high quality, communication at each completed stage, and continued availability after completion.
+
+## 2026-10-23 — Plan your visit
+
+Added a fourth About us item inviting visitors to schedule a visit, discuss next steps or ask questions via linked Facebook, WhatsApp or phone contacts.
