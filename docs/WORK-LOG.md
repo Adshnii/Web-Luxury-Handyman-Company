@@ -49,3 +49,7 @@ Updated the English service descriptions from the owner's supplied wording: a wi
 ## 2026-10-23 — Individual service inquiries
 
 Updated the note below the service cards with the owner's invitation to discuss unlisted services and individual home needs.
+
+## 2026-10-23 — Remove service-note link
+
+Removed ‘Ask about your project’ from the row beneath the service cards at the owner's request.
