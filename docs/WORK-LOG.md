@@ -73,3 +73,7 @@ Added +1 to the visible phone number in the contact section. The existing intern
 ## 2026-10-23 — Synchronize hours with Facebook
 
 Read the company Facebook Hours dialog directly: Monday–Friday 08:00–18:00, Saturday closed, Sunday 08:00–16:00. Updated the website contact hours, FAQ answer, structured opening-hours data and source record to match.
+
+## 2026-10-23 — About us experience and client care
+
+Added the owner's experience of more than five years, including work in several EU countries. Replaced the three process rows with the requested commitments: work as for one's own home with high quality, communication at each completed stage, and continued availability after completion.
