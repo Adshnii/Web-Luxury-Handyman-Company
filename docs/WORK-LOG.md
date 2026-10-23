@@ -61,3 +61,7 @@ Removed the left ‘Serving our corner of Southwest Florida’ column, including
 ## 2026-10-23 — Remove duplicated service-area blocks
 
 Removed the separate city-list section and the Southwest Florida hero tile, retaining the existing footer information. Rebalanced the hero strip to three services and adjusted the contact section number.
+
+## 2026-10-23 — About/FAQ divider
+
+Added a thin horizontal divider between About us and A few useful details, matching the existing section borders.
