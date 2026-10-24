@@ -10,7 +10,7 @@ Official English-language website for **Luxury Handyman Company / Solvix.S LLC**
 
 ## Hosting and editing
 
-Deployment plan: configure GitHub Pages to serve the `main` branch from the repository root. Hosting has not yet been enabled; design review is ongoing. `.nojekyll` disables Jekyll. There are no build dependencies, server, database, API keys or paid hosting services.
+Deployment plan: configure GitHub Pages to serve the `main` branch from the repository root. The owner approved the design on 2026-10-23. Hosting has not yet been enabled. `.nojekyll` disables Jekyll. There are no build dependencies, server, database, API keys or paid hosting services.
 
 Edit `index.html` for company content, `styles.css` for design and mobile layouts, and `script.js` for navigation and the email request helper. Images are in `assets/`. Once Pages is enabled, commits to `main` will trigger publication.
 
@@ -22,7 +22,7 @@ The existing business domain is `luxuryhandymansolvix.com`. It is not connected 
 
 ## Design
 
-The owner’s [Pinterest reference](https://pin.it/7geJwhg2o) informs the framed photo hero and overlaid navigation. A continuous graphite background (#27272a), white typography and subtle dividers unite the supporting sections. The approved company logo remains unchanged. Desktop and mobile design previews are saved in `docs/previews/`.
+The owner’s [Pinterest reference](https://pin.it/7geJwhg2o) informs the framed photo hero and overlaid navigation. A continuous graphite background (#27272a), white typography and subtle dividers unite the supporting sections. The approved company logo remains unchanged. Current approved previews: [desktop](docs/previews/approved-desktop.png) and [mobile](docs/previews/approved-mobile.png). Superseded previews and the intermediate edit log have been removed from the current branch.
 
 ## Assets
 
@@ -32,6 +32,6 @@ Google Fonts provides Playfair Display and Inter; system serif and sans-serif fo
 
 ## Project records
 
-[Business content sources](docs/CONTENT-SOURCES.md) · [Work log](docs/WORK-LOG.md) · [Domain setup](docs/DOMAIN-SETUP.md)
+[Business content sources](docs/CONTENT-SOURCES.md) · [Approved website status](docs/STATUS.md) · [Domain setup](docs/DOMAIN-SETUP.md)
 
 Keep website code, assets, configuration and documentation in **this repository**, as requested by the owner. Local files used for implementation and testing are temporary. Do not copy private account records, billing information, verification addresses or credentials into this public repository.

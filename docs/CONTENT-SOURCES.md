@@ -1,23 +1,26 @@
-# Content sources and decisions
+# Current content sources
 
-Prepared 2026-10-21 from the owner’s existing GitHub repositories, at the owner’s explicit request.
+Updated for the owner-approved website on 2026-10-23.
 
-- `Adshnii/Company-Project`, `COMPANY-CONTEXT.md` and `project-notes/CURRENT-STATUS.md`: current public brand, owner-approved legal display name, business phone / WhatsApp, service areas, opening hours, Facebook URL, English language and approved services.
-- `Adshnii/Luxury-Handyman-Solvix-Records`: confirmed customer-facing email and business domain. Private administrative information was excluded.
-- `Adshnii/Zobrazhennia-kompanii-Luxury-Handyman-Company`, `avatars/solvix-avatar-black.png`: approved logo, without an underline.
+## Company identity and assets
 
-## Public details used
+- `Adshnii/Company-Project`: public brand Luxury Handyman Company, legal display Solvix.S LLC, phone/WhatsApp +1 (239) 776-0639, service areas, Facebook profile and English website language.
+- `Adshnii/Luxury-Handyman-Solvix-Records`: customer-facing email info@luxuryhandymansolvix.com and owned domain luxuryhandymansolvix.com.
+- `Adshnii/Zobrazhennia-kompanii-Luxury-Handyman-Company`, `avatars/solvix-avatar-black.png`: owner-approved crossed-impact-driver logo.
+- Hero interior photograph: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0 — illustrative, labeled “Interior inspiration”, not a completed company project.
 
-Luxury Handyman Company; Solvix.S LLC; +12397760639; info@luxuryhandymansolvix.com; Naples, Bonita Springs, Marco Island, Florida; Monday–Friday 08:00–18:00, Saturday closed, Sunday 08:00–16:00 (Eastern Time); Facebook profile ID 61591907013713.
+## Facebook verification
 
-Services: minor repairs, maintenance and installation, hanging and mounting. Bathroom plumbing and lighting are presented as requests to discuss, with scope and trade requirements confirmed before scheduling. No license, insurance, ratings, completed-project photos, years of experience, prices or response-time guarantees are asserted.
+The company [Facebook page](https://www.facebook.com/profile.php?id=61591907013713) was read directly on 2026-10-23. Its bio lists Naples, Bonita Springs and Marco Island. Its Hours dialog shows Monday–Friday 08:00–18:00, Saturday closed and Sunday 08:00–16:00. The website uses Eastern Time for these Florida working hours.
 
-The site is a service-area business presentation and does not publish a private verification address. The interior hero photograph is illustrative and is labeled accordingly. The company name is owner-approved; state registration has not been independently audited.
+## Owner-provided content
 
-Hours verified directly in the Facebook page’s Hours dialog on 2026-10-23: Monday–Friday 08:00–18:00, Saturday closed, Sunday 08:00–16:00. Source: https://www.facebook.com/profile.php?id=61591907013713 . This supersedes the earlier repository schedule.
+The owner supplied and approved the current wording during the design review:
 
-About us experience and service commitments were supplied directly by the owner on 2026-10-23: more than five years of experience, including work in several EU countries; high-quality work performed as for one's own home; updates at each completed stage; continued communication and support after completion. This refers to hands-on experience, not the age of the company.
+- Minor home repairs; picture, shelf and TV mounting; bulb replacement, small plumbing-fixture installation, shelf/door adjustment and furniture assembly.
+- More than five years of hands-on experience, including work in several EU countries, plus extensive US experience. This describes personal work experience, not the company's age.
+- High-quality work performed as for one's own home, updates at every completed stage and continued client communication after completion.
+- Client contact availability 24/7, separate from scheduled working hours.
+- Pricing based on scope and estimated time, with fair and affordable pricing. The client pays material costs; the company purchases materials and supplies an invoice for labor and materials.
 
-Pricing/materials policy and 24/7 client contact availability were supplied directly by the owner on 2026-10-23. Clients pay for materials; the company purchases them and provides an invoice for labor and materials. Contact availability is separate from the Facebook working-hours schedule.
-
-The owner also confirmed extensive experience in home repair and maintenance in the United States on 2026-10-23.
+No private administrative records, credentials, billing details or verification addresses are included. Public content and artwork are stored only in this dedicated website repository.
