@@ -19,3 +19,5 @@ Hours verified directly in the Facebook page’s Hours dialog on 2026-10-23: Mon
 About us experience and service commitments were supplied directly by the owner on 2026-10-23: more than five years of experience, including work in several EU countries; high-quality work performed as for one's own home; updates at each completed stage; continued communication and support after completion. This refers to hands-on experience, not the age of the company.
 
 Pricing/materials policy and 24/7 client contact availability were supplied directly by the owner on 2026-10-23. Clients pay for materials; the company purchases them and provides an invoice for labor and materials. Contact availability is separate from the Facebook working-hours schedule.
+
+The owner also confirmed extensive experience in home repair and maintenance in the United States on 2026-10-23.

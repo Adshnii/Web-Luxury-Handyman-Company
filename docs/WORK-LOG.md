@@ -113,3 +113,7 @@ Replaced the project textarea placeholder with ‘Tell us about the details of y
 ## 2026-10-23 — Email button label
 
 Renamed ‘Prepare my email’ to ‘Send my email’ at the owner's request. The existing mail-app handoff and explanatory note remain.
+
+## 2026-10-23 — United States experience
+
+Added the owner's extensive US experience to the About us paragraph, alongside the existing five-plus years of experience and work in EU countries.
