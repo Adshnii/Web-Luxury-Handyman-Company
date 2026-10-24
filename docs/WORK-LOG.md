@@ -105,3 +105,7 @@ Added ‘Serving Naples, Bonita Springs & Marco Island.’ below the contact hou
 ## 2026-10-23 — Location picker with custom entry
 
 Replaced the city input with Naples, Bonita Springs, Marco Island and Other location options. Choosing Other location reveals a required custom location field; choosing a listed city hides and disables it. Prepared emails include the selected city or entered location.
+
+## 2026-10-23 — Project details placeholder
+
+Replaced the project textarea placeholder with ‘Tell us about the details of your project that need attention.’ at the owner's request.
