@@ -97,3 +97,7 @@ Updated all three FAQ answers using the owner's instructions: request location, 
 ## 2026-10-23 — Simplify contact section and form
 
 Removed the two-line contact introduction and the service dropdown. Fields now run vertically: name, city/ZIP, email, project details. Removed service preselection from cards and adjusted the prepared email to omit the removed field.
+
+## 2026-10-23 — Service cities below working hours
+
+Added ‘Serving Naples, Bonita Springs & Marco Island.’ below the contact hours, using the service cities read from the company Facebook bio earlier in this session.

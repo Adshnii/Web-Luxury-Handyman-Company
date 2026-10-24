@@ -10,3 +10,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 
 .approach-row p a{text-decoration:underline;text-underline-offset:3px}.approach-row p a:hover{color:var(--ink)}
+
+.contact-copy>p.contact-areas{font-size:11px;margin:18px 0 0;line-height:1.6}
