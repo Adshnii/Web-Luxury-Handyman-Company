@@ -89,3 +89,7 @@ Removed ‘Photos and measurements help us understand the project.’ at the own
 ## 2026-10-23 — Fourth hero service card
 
 Added ‘Other projects’ as the fourth card on the first screen, inviting individual inquiries for other tasks needing prompt, high-quality work. The card links to contact and selects ‘Another project’. Restored four desktop columns and a two-by-two mobile grid.
+
+## 2026-10-23 — Request, pricing and contact FAQs
+
+Updated all three FAQ answers using the owner's instructions: request location, work type/scope and preferred start; pricing based on scope and estimated time with materials paid by the client, purchased by the company and invoiced with labor; client contact available 24/7. Working hours remain the schedule verified directly on Facebook on 2026-10-23 (Mon–Fri 08:00–18:00, Saturday closed, Sunday 08:00–16:00), distinct from contact availability.

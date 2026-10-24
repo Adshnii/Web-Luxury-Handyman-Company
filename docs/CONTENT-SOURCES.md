@@ -17,3 +17,5 @@ The site is a service-area business presentation and does not publish a private 
 Hours verified directly in the Facebook page’s Hours dialog on 2026-10-23: Monday–Friday 08:00–18:00, Saturday closed, Sunday 08:00–16:00. Source: https://www.facebook.com/profile.php?id=61591907013713 . This supersedes the earlier repository schedule.
 
 About us experience and service commitments were supplied directly by the owner on 2026-10-23: more than five years of experience, including work in several EU countries; high-quality work performed as for one's own home; updates at each completed stage; continued communication and support after completion. This refers to hands-on experience, not the age of the company.
+
+Pricing/materials policy and 24/7 client contact availability were supplied directly by the owner on 2026-10-23. Clients pay for materials; the company purchases them and provides an invoice for labor and materials. Contact availability is separate from the Facebook working-hours schedule.
