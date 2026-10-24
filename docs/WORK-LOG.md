@@ -93,3 +93,7 @@ Added ‘Other projects’ as the fourth card on the first screen, inviting indi
 ## 2026-10-23 — Request, pricing and contact FAQs
 
 Updated all three FAQ answers using the owner's instructions: request location, work type/scope and preferred start; pricing based on scope and estimated time with materials paid by the client, purchased by the company and invoiced with labor; client contact available 24/7. Working hours remain the schedule verified directly on Facebook on 2026-10-23 (Mon–Fri 08:00–18:00, Saturday closed, Sunday 08:00–16:00), distinct from contact availability.
+
+## 2026-10-23 — Simplify contact section and form
+
+Removed the two-line contact introduction and the service dropdown. Fields now run vertically: name, city/ZIP, email, project details. Removed service preselection from cards and adjusted the prepared email to omit the removed field.
