@@ -85,3 +85,7 @@ Added a fourth About us item inviting visitors to schedule a visit, discuss next
 ## 2026-10-23 — Simplify request FAQ
 
 Removed ‘Photos and measurements help us understand the project.’ at the owner's request.
+
+## 2026-10-23 — Fourth hero service card
+
+Added ‘Other projects’ as the fourth card on the first screen, inviting individual inquiries for other tasks needing prompt, high-quality work. The card links to contact and selects ‘Another project’. Restored four desktop columns and a two-by-two mobile grid.
