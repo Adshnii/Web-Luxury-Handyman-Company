@@ -6,11 +6,25 @@ navigation.querySelectorAll('a').forEach(link => link.addEventListener('click', 
 document.addEventListener('keydown', event => { if (event.key === 'Escape' && navigation.classList.contains('open')) { closeMenu(); menuButton.focus(); } });
 document.querySelector('#year').textContent = new Date().getFullYear();
 const form = document.querySelector('#project-form');
+const locationSelect = form.querySelector('[name="location"]');
+const otherLocationField = document.querySelector('#other-location-field');
+const otherLocationInput = document.querySelector('#other-location');
+function updateLocationField() {
+  const isOther = locationSelect.value === 'other';
+  otherLocationField.hidden = !isOther;
+  otherLocationInput.disabled = !isOther;
+  otherLocationInput.required = isOther;
+}
+locationSelect.addEventListener('change', updateLocationField);
+updateLocationField();
+window.addEventListener('pageshow', updateLocationField);
+
 form.addEventListener('submit', event => {
   event.preventDefault();
   if (!form.reportValidity()) return;
   const data = new FormData(form);
-  const body = `Hello Luxury Handyman Company,\n\nI would like to discuss a project.\n\nName: ${data.get('name').trim()}\nEmail: ${data.get('email').trim()}\nCity / ZIP: ${data.get('location').trim()}\n\nProject details:\n${data.get('message').trim()}\n\nThank you!`;
+  const location = (data.get('location') === 'other' ? data.get('other_location') : data.get('location')).trim();
+  const body = `Hello Luxury Handyman Company,\n\nI would like to discuss a project.\n\nName: ${data.get('name').trim()}\nEmail: ${data.get('email').trim()}\nLocation: ${location}\n\nProject details:\n${data.get('message').trim()}\n\nThank you!`;
   document.querySelector('#prepared-request').value = body;
   document.querySelector('#email-fallback').hidden = false;
   document.querySelector('#form-status').textContent = 'Your request is prepared. Review and send it in your email app. Nothing has been sent yet.';

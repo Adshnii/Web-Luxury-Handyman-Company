@@ -101,3 +101,7 @@ Removed the two-line contact introduction and the service dropdown. Fields now r
 ## 2026-10-23 — Service cities below working hours
 
 Added ‘Serving Naples, Bonita Springs & Marco Island.’ below the contact hours, using the service cities read from the company Facebook bio earlier in this session.
+
+## 2026-10-23 — Location picker with custom entry
+
+Replaced the city input with Naples, Bonita Springs, Marco Island and Other location options. Choosing Other location reveals a required custom location field; choosing a listed city hides and disables it. Prepared emails include the selected city or entered location.
