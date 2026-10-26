@@ -2,7 +2,9 @@
 
 Official English-language website for **Luxury Handyman Company / Solvix.S LLC**.
 
-- Planned GitHub Pages address (not yet enabled): https://adshnii.github.io/Web-Luxury-Handyman-Company/
+- Production website: https://adshnii.github.io/Luxury-Handyman-Hosting/
+- Production repository: https://github.com/Adshnii/Luxury-Handyman-Hosting
+- Private website records: https://github.com/Adshnii/Luxury-Handyman-Website-Info
 - Repository: https://github.com/Adshnii/Web-Luxury-Handyman-Company
 - Business email: info@luxuryhandymansolvix.com
 - Phone / WhatsApp: +1 (239) 776-0639
@@ -10,15 +12,15 @@ Official English-language website for **Luxury Handyman Company / Solvix.S LLC**
 
 ## Hosting and editing
 
-Deployment plan: configure GitHub Pages to serve the `main` branch from the repository root. The owner approved the design on 2026-10-23. Hosting has not yet been enabled. `.nojekyll` disables Jekyll. There are no build dependencies, server, database, API keys or paid hosting services.
+This repository preserves the approved design and its editing history. On 2026-10-25, the owner requested separate repositories for hosting and important website information. Future live website changes belong in **Luxury-Handyman-Hosting**. The private **Luxury-Handyman-Website-Info** repository holds operations and domain documentation.
 
-Edit `index.html` for company content, `styles.css` for design and mobile layouts, and `script.js` for navigation and the email request helper. Images are in `assets/`. Once Pages is enabled, commits to `main` will trigger publication.
+GitHub Pages is configured to publish `main` from the root of the hosting repository with HTTPS. This original design repository is not published or automatically synchronized. The website has no build dependencies, backend server or database.
 
 The form opens the visitor’s email application with a prepared request. It **does not send email automatically**. WhatsApp, email and phone links also work directly. No request information is stored on the website.
 
 ## Business domain
 
-The existing business domain is `luxuryhandymansolvix.com`. It is not connected to this repository yet. See [domain setup](docs/DOMAIN-SETUP.md). Do not add a CNAME file before arranging and checking domain DNS. Existing mail DNS records must be preserved. The older `WEB` repository and its `solvixcompany.com` domain are separate.
+The existing business domain is `luxuryhandymansolvix.com`. It is not connected to the production site yet. See [domain setup](docs/DOMAIN-SETUP.md). Do not add a CNAME file before arranging and checking domain DNS. Existing mail DNS records must be preserved. The older `WEB` repository and its `solvixcompany.com` domain are separate.
 
 ## Design
 
@@ -34,4 +36,4 @@ Google Fonts provides Playfair Display and Inter; system serif and sans-serif fo
 
 [Business content sources](docs/CONTENT-SOURCES.md) · [Approved website status](docs/STATUS.md) · [Domain setup](docs/DOMAIN-SETUP.md)
 
-Keep website code, assets, configuration and documentation in **this repository**, as requested by the owner. Local files used for implementation and testing are temporary. Do not copy private account records, billing information, verification addresses or credentials into this public repository.
+Keep production files in **Luxury-Handyman-Hosting**, important documentation in the private **Luxury-Handyman-Website-Info**, and approved design history in this repository, following the owner’s 2026-10-25 request. Local files used for implementation and testing are temporary. Do not copy private account records, billing information, verification addresses or credentials into this public repository.

@@ -1,6 +1,6 @@
 # Approved website — current status
 
-Design approved by the owner on 2026-10-23. This repository is the authoritative copy of the website, assets and current documentation.
+Design approved by the owner on 2026-10-23. This repository preserves the approved design and earlier history. The production source is Adshnii/Luxury-Handyman-Hosting; current operations records are in the private Adshnii/Luxury-Handyman-Website-Info.
 
 ## Approved presentation
 
@@ -19,6 +19,6 @@ Desktop and mobile previews inspected at 1440 px and 390 px with no horizontal o
 
 ## Publication
 
-Source is saved on GitHub. GitHub Pages publication and the business-domain connection are still pending. See [domain setup](DOMAIN-SETUP.md).
+GitHub Pages is configured for https://adshnii.github.io/Luxury-Handyman-Hosting/ in the separate hosting repository. The business-domain connection is still pending. See [domain setup](DOMAIN-SETUP.md).
 
 Old previews and intermediate edit notes have been removed from the current branch. Git commit history remains available for recovery. Current screenshots are in [previews](previews/).
